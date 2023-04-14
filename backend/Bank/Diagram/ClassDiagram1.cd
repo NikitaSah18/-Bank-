@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Bank.Models.ChartNumber">
+    <Position X="6.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAABAAAAAACAAABAAAAAAAAAA=</HashCode>
+      <FileName>ChartNumber.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bank.Models.Client">
+    <Position X="0.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgACAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>Client.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bank.Models.View">
+    <Position X="2" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAQAAAA=</HashCode>
+      <FileName>View.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bank.Models.Statement">
+    <Position X="3.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACBAAAAAAAAAAAgAAIAAAAAAABAAAAAAAAAQgAAAQ=</HashCode>
+      <FileName>Statement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bank.Models.NumberOfContract">
+    <Position X="6" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAEACCAAUAAAAAAAAAAACAAA=</HashCode>
+      <FileName>NumberOfContract.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bank.Models.Employee">
+    <Position X="8.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgACAAAAAAAAAEEAAAAAAAAACAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Employee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bank.Models.Post">
+    <Position X="10" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Post.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9.16" />
+</ClassDiagram>

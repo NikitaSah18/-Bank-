@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\РГРТУ\backend\Bank\Diagram\obj\Debug\Diagram.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\РГРТУ\backend\Bank\Diagram\obj\Debug\Diagram.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\РГРТУ\backend\Bank\Diagram\bin\Debug\Diagram.dll
+C:\Users\Admin\Desktop\РГРТУ\backend\Bank\Diagram\bin\Debug\Diagram.pdb
+C:\Users\Admin\Desktop\РГРТУ\backend\Bank\Diagram\obj\Debug\Diagram.dll
+C:\Users\Admin\Desktop\РГРТУ\backend\Bank\Diagram\obj\Debug\Diagram.pdb
+C:\Users\Admin\Desktop\РГРТУ\backend\Bank\Diagram\bin\Debug\spa.proxy.json
+C:\Users\Admin\Desktop\РГРТУ\backend\Bank\Diagram\obj\Debug\spa.proxy.json
